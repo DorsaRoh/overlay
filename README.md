@@ -11,7 +11,9 @@ Before running the script, ensure you have Python installed along with the neces
 ```bash
 pip install -r requirements.txt
 ```
-![original image](assets/with_overlay.png)
+<p align="center">
+  <img src="assets/with_overlay.png">
+</p>
 
 ## Usage
 
