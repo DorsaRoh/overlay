@@ -51,7 +51,7 @@ image_path = "image/flower.jpg"  # replace with image path
 img = Image.open(image_path)
 
 # load the  overlay image
-overlay_path = "bsod.png"  # replace with your image path
+overlay_path = "overlay-effects/bsod.png"  # replace with your image path
 overlay_image = cv2.imread(overlay_path)
 
 # get predictions
