@@ -2,7 +2,7 @@
 
 This application uses a pre-trained Mask R-CNN model to detect specified objects in images and applies an overlay (of any desired image) to those objects.
 
-![original image](assets\diagram.png)
+![original image](assets/diagram.png)
 
 ## Prerequisites
 
@@ -11,7 +11,9 @@ Before running the script, ensure you have Python installed along with the neces
 ```bash
 pip install -r requirements.txt
 ```
-![original image](assets\with_overlay.png)
+<p align="center">
+  <img src="assets/with_overlay.png">
+</p>
 
 ## Usage
 
